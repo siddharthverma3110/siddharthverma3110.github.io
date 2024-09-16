@@ -21,7 +21,7 @@ repository               : "siddharthverma3110.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_pic_github.png"
+  avatar           : "/images/Profile_pic_github.jpg"
   name             : "Siddharth Verma"
   pronouns         : # example: "she/her"  
   bio              : "Economics Research"
