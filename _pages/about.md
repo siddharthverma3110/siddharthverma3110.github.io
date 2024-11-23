@@ -32,3 +32,14 @@ Assisted In
 - Gruber, J., Aggarwal, V., Rao, K., Agrawal, R., Sachdeva, S., & Verma, S. (2022). _Does Hospital Empanelment Impact Utilization of PM-JAY?_
 - NCAER. (2018). _The NCAER State Investment Potential Index (N-SIPI) 2018 Report._
 
+---
+title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+collection: publications
+permalink: /publication/2019-bayespostest
+date: 2019-10-01
+venue: 'Journal of Open Source Software'
+paperurl: '/files/pdf/research/BayesPostEst.pdf'
+link: 'https://doi.org/10.21105/joss.01722'
+citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+---
+
