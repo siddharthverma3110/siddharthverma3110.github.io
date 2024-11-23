@@ -32,4 +32,8 @@ Assisted In
 - Gruber, J., Aggarwal, V., Rao, K., Agrawal, R., Sachdeva, S., & Verma, S. (2022). _Does Hospital Empanelment Impact Utilization of PM-JAY?_
 - NCAER. (2018). _The NCAER State Investment Potential Index (N-SIPI) 2018 Report._
 
+- {% include base_path %}
+
+{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
+
 
