@@ -20,7 +20,7 @@ I am broadly interested in Macroeconomics and Development Economics. Currently, 
 Publications
 ======
 ***
-
+<!-- 
 Solo-Authored
 ------
 * Decrypting Inflation Inequality in India
@@ -31,7 +31,7 @@ Assisted In
 - CAFRAL. (2023). _India Finance Report 2023: Connecting the Last Mile._
 - Gruber, J., Aggarwal, V., Rao, K., Agrawal, R., Sachdeva, S., & Verma, S. (2022). _Does Hospital Empanelment Impact Utilization of PM-JAY?_
 - NCAER. (2018). _The NCAER State Investment Potential Index (N-SIPI) 2018 Report._
-
+-->
 
 {% include base_path %}
 
