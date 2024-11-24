@@ -215,6 +215,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  publications_2:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
