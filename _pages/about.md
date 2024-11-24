@@ -39,4 +39,8 @@ _Policy Reports_
 
 {% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
 
+_Working Papers_
+------
+{% include base_path %}
 
+{% for post in site.publications_2 reversed %} {% include archive-single.html %} {% endfor %}
