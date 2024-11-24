@@ -13,7 +13,7 @@ About Me
 
 I was recently working as a Research Associate at the Centre for Advanced Financial Research and Learning (CAFRAL). In the past, I have worked as a Research Associate at J-PAL and as a part of Prof. Jonathan Gruber's team assisting the National Health Authority. I hold an Integrated Masters in Economics from IIT Kharagpur and a Masters in Econometrics and Mathematical Economics from Tilburg University. 
 
-I am broadly interested in Macroeconomics and Development Economics. Currently, I am working on understanding the heterogeneous effect of macroeconomic phenomena on households. 
+I am broadly interested in Macroeconomics and Development Economics. Currently, I am working on understanding the heterogeneous effect of macroeconomic phenomena on households.
 
 
 
